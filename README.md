@@ -154,6 +154,6 @@ Acredito que foi um desafio bem legal para mostrar meus conhecimentos! Tive algu
 * Evite duplicidade de dados
 * Usei linguagem Python e PostgreSQL
 
-Ainda vejo que entregue a mais criar testes e usei docker.
+**Ainda vejo que entreguei a mais os testes e usei docker.**
 
 Obrigada :) 
